@@ -291,14 +291,17 @@ footer ul{
         padding: 2rem;
     }
     .cloud{
-        width: 100vw;
-        height: 65vh;
+        width: 110vw;
+        height: 70vh;
     }
     .moving_cloud_1{
         z-index: -1;
     }
     .moving_cloud_2{
         z-index: -2;
+    }
+    .form_wrapper{
+        width: 100%;
     }
     footer{
         text-align: center;
